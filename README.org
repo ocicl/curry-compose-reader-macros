@@ -1,0 +1,10 @@
+* curry-compose-reader-macros
+
+Reader macros for concise expression of function partial application and composition.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eschulte/curry-compose-reader-macros.git   |
+| commit  | 242d91c  |
+| systems | curry-compose-reader-macros |
+|---------+-------------------------------------------|
+
